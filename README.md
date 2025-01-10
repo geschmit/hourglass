@@ -13,12 +13,6 @@ Hourglass is a custom PCB watch designed in KiCAD 7.0, to be funded by the Hack 
   - Cheap manufacturing cost
 
 ## Revisions
-
-### [Prototype:](./hourglass_prototype/) Concept test
-> `Status: ❎ (SCRAPPED)`
-<img src="./hourglass_prototype/hourglass_prototype_front.png" alt="reva front" width="300"/>
-This is the original design I came up with when designing Hourglass, but due to size and wiring constraints, was scrapped. It utilizes two boards, one for controlling the watchface and the board which contains the face itself, which can be mixed and matched for upgradability or for a different means of displaying the time.
-
 ### [Revision A:](./hourglass_reva/) Working design iteration
 > `Status: ✔️ (COMPLETE)`
 <img src="./hourglass_reva/hourglass_reva_front.png" alt="reva front" width="300"/>
